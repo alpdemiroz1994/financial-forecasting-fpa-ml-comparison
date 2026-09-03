@@ -17,14 +17,9 @@ heterogeneity, sectoral differences, and management-reporting requirements.
 
 ## Research questions
 
-1. Do machine-learning models improve the out-of-sample forecasting accuracy of
-   Operating Income and Operating Cash Flow relative to traditional methods?
+1. How the machine learning models improve the forecasting accuracy of operating income and operating cash flow compared with traditional forecasting methods when macroeconomic variables are used?
 
-2. How does forecasting performance differ between selected Technology and
-   Manufacturing firms?
-
-3. What do the findings imply for the use of data-driven forecasting in FP&A
-   and management reporting?
+2. How do forecasting results differ from technology to manufacturing, and what are the implications for management reporting and data-science finance transformations?
 
 ## Data sources
 
