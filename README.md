@@ -10,14 +10,11 @@ for forecasting two quarterly financial-statement items:
 - Operating Income
 - Operating Cash Flow
 
-The purpose is not to assume that machine-learning methods always outperform
-traditional approaches. Instead, the study examines whether their potential
-value depends on target-variable characteristics, data availability, firm
-heterogeneity, sectoral differences, and management-reporting requirements.
+The purpose is to build a comparative analysis for ML models and traditional models. Moreover, this experiment has been made with the same firms, same sectors and the same datasets.
 
 ## Research questions
 
-1. How the machine learning models improve the forecasting accuracy of operating income and operating cash flow compared with traditional forecasting methods when macroeconomic variables are used?
+1. Do machine learning models improve the forecasting accuracy of Operating Income and Operating Cash Flow compared with traditional forecasting methods when macroeconomic variables are included?
 
 2. How do forecasting results differ from technology to manufacturing, and what are the implications for management reporting and data-science finance transformations?
 
