@@ -88,11 +88,18 @@ data are reserved for final out-of-sample testing.
 ## Repository structure
 
 ```text
-notebooks/     Reproducible analysis notebooks
-docs/          Methodology, data documentation, and limitations
-data/          Data documentation; raw source files are not stored in Git
-outputs/       Reproducible result tables and figures
+Financial Forecasting Analysis.ipynb   Full reproducible analysis notebook:
+                                        data collection, feature engineering,
+                                        model fitting, evaluation, and
+                                        feature importance analysis
+methodology_summary.md                 Methodology documentation
+limitations.md                         Study limitations
+requirements.txt                       Python package dependencies
 ```
+
+Raw source data (SEC Financial Statement Data Sets, FRED series) are not
+stored in this repository; the notebook downloads them directly from the
+original sources.
 
 ## Important limitations
 
@@ -108,7 +115,7 @@ outputs/       Reproducible result tables and figures
 
 ## Project status
 
-This repository is under active development. The current version provides the
-initial analytical workflow. Further updates will include modular notebooks,
-exported result tables, figures, robustness checks, and expanded
-documentation.
+This repository is under active development. The notebook currently covers
+data collection, feature engineering, model fitting and evaluation, and
+feature importance analysis. Further updates will include exported result
+tables and figures, robustness checks, and expanded documentation.
