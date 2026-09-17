@@ -36,8 +36,8 @@ U.S.-listed companies.
 
 | Sector | Companies |
 |---|---|
-| Technology | Apple, Microsoft, NVIDIA, Intel, Adobe |
-| Manufacturing | Illinois Tool Works, Cummins, 3M, Fortive, IDEX |
+| Technology | Apple, Microsoft, NVIDIA, Intel, Adobe, Cisco, Oracle, SalesForce, Servicenow, Intuit |
+| Manufacturing | Illinois Tool Works, Cummins, 3M, Fortive, IDEX, Graco, Lincoln Electric, Trane Technologies, A.O. Smith, Ingersoll Rand. |
 
 The findings should be interpreted as comparative evidence for the selected
 sample rather than as results generalizable to all firms or sectors.
