@@ -21,8 +21,8 @@ Co-registrant observations are excluded.
 
 The analysis includes ten selected U.S.-listed firms:
 
-- Technology: Apple, Microsoft, NVIDIA, Intel, and Adobe
-- Manufacturing: Illinois Tool Works, Cummins, 3M, Fortive, and IDEX
+- Technology: Apple, Microsoft, NVIDIA, Intel, Adobe, Cisco, Oracle, SalesForce, Servicenow and Intuit
+- Manufacturing: Illinois Tool Works, Cummins, 3M, Fortive, IDEX, Graco, Lincoln Electric, Trane Technologies, A.O. Smith and Ingersoll Rand
 
 The sample is purposive and constrained by the availability of usable
 quarterly financial observations.
